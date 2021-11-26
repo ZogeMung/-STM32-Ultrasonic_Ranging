@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace SerialDistanceView
+{
+    public partial class SerialDistanceView : Form
+    {
+        public SerialDistanceView()
+        {
+            InitializeComponent();
+        }
+
+        private void SerialDistanceView_Load(object sender, EventArgs e)
+        {
+            SerialPort.Text = serialPort1.PortName;
+        }
+
+        private void OpenSerial_Click(object sender, EventArgs e)
+        {
+            serialPort1.Open();
+        }
+
+        private void CloseSerial_Click(object sender, EventArgs e)
+        {
+            serialPort1.Close();
+        }
+    }
+}

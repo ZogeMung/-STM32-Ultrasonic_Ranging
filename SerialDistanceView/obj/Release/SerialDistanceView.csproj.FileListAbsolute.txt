@@ -1,0 +1,9 @@
+E:\Demo\SerialDistanceView\bin\Release\SerialDistanceView.exe.config
+E:\Demo\SerialDistanceView\bin\Release\SerialDistanceView.exe
+E:\Demo\SerialDistanceView\bin\Release\SerialDistanceView.pdb
+E:\Demo\SerialDistanceView\obj\Release\SerialDistanceView.SerialDistanceView.resources
+E:\Demo\SerialDistanceView\obj\Release\SerialDistanceView.Properties.Resources.resources
+E:\Demo\SerialDistanceView\obj\Release\SerialDistanceView.csproj.GenerateResource.cache
+E:\Demo\SerialDistanceView\obj\Release\SerialDistanceView.csproj.CoreCompileInputs.cache
+E:\Demo\SerialDistanceView\obj\Release\SerialDistanceView.exe
+E:\Demo\SerialDistanceView\obj\Release\SerialDistanceView.pdb

@@ -1,0 +1,10 @@
+E:\Demo\SerialDistanceView\bin\Debug\SerialDistanceView.exe.config
+E:\Demo\SerialDistanceView\bin\Debug\SerialDistanceView.exe
+E:\Demo\SerialDistanceView\bin\Debug\SerialDistanceView.pdb
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.SerialDistanceView.resources
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.Properties.Resources.resources
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.csproj.GenerateResource.cache
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.csproj.CoreCompileInputs.cache
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.exe
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.pdb
+E:\Demo\SerialDistanceView\obj\Debug\SerialDistanceView.csprojAssemblyReference.cache
